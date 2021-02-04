@@ -23,7 +23,7 @@ if you plan on editing this code, please:
 | ------------- | 
 | A. Give Credit |
 | B. Open a PR & become a Contributor |
-| C. Use as is, and do not release the code as if it as your own. |
+| C. Use as is, and do not release the code as if it were your own. |
 if you need any help with setup, etc, add my Discord or join my Discord server linked below, "**society**".
 
 **in the above image, my cookies are set to ".ROBLOSECURITY" for ROBLOX auth. cookies => those variables are changeable.**
