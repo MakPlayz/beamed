@@ -1,6 +1,9 @@
 ## "beamed": tokensteal, browsersteal, & more:
 
-with only 293 lines of code, i've developed a lightweight & efficient stealer in Python | if you end up using this; pass a star/follow:
+with only 293 lines of code, i've developed a lightweight & efficient stealer in Python.
+
+if you end up using this; pass a star/follow:
+
 * Discord Token
 * Chrome Passwords
 * Chrome/Firefox Cookies
